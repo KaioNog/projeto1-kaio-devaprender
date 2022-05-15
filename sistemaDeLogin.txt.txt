@@ -1,1 +1,4 @@
 sisteminhaa
+Digite seu email
+Digite sua senha
+Digite sua idade
